@@ -2,3 +2,4 @@
   functions = "web/netlify/functions"
   publish = "web"
 
+   CI= npm run build
