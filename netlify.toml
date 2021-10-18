@@ -1,5 +1,3 @@
 [build]
   functions = "web/netlify/functions"
   publish = "web"
-
-    command = "CI= npm run build"
